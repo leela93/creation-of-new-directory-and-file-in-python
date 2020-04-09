@@ -1,2 +1,3 @@
 # creation-of-new-directory-and-file-in-python
-This is a file which contains code for creation of new directory and new file with os module in python
+First code is for creation of directory and file
+Second code is for creation of file and writing data in it
